@@ -1,2 +1,2 @@
 environment = "dev"
-env_version = "1.0"
+env_version = "1.1"
